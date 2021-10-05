@@ -1,3 +1,3 @@
 This is a sample file
 Created for Jenkins 
-version 1.1
+version 1.2
